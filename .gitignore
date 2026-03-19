@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+.ipynb_checkpoints/
+checkpoints/
+logs/
+graphs_cache/
+energyflow_cache/
+*.npz
+*.pkl
+.energyflow/
